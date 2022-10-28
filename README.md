@@ -31,4 +31,4 @@ Connect with me:
 https://www.linkedin.com/in/oz-zaken
 
 Languages and Tools:
-babel | css3 | express | git | html5 | javascript | mongodb | nodejs | postman | react | redux | sass | typescript
+babel  css3  express  git  html5 javascript mongodb nodejs postman react redux sass typescript
