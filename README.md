@@ -54,7 +54,8 @@
   <br>
   <br>
   💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>
-  📫 You can reach me at : <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  <br>
+  📫 You can reach me at : <a href="mailto: ozzaken0201@hotmail.com">ozzaken0201@hotmail.com</a>
 </p>
 <hr>
 
