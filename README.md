@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-• 🔭 I’m currently working on AirBnb Project.
-
-- 🌱 I’m currently learning Anguler.
+• 🔭 I’m currently working . 
+- 🌱 currently learning Anguler.
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
