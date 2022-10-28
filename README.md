@@ -38,7 +38,7 @@
   📚 I’m currently learning how to build E-Commerce Website with Anguler and Django. 
   <br><br>
 
-  About me
+  About
   <br>
  🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
   <br>
