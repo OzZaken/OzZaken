@@ -29,13 +29,13 @@
 <p align="center">
   Hi, I'm Oz Zaken, Full stack \ Frontend  Developer from Israel.
   <br><br>
-  🔬 Education
+  📚  Education
   <br>
   • fullstack At codingAcademy from Misterbit Technological Solutions.
   <br>
   • IT At Jhone Bryce.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Anguler and Django. 
+  I’m currently learning how to build E-Commerce Website with Anguler and Django. 
   <br><br>
 
   <br>
