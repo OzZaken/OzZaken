@@ -28,18 +28,26 @@
 <p align="center">
   Hi, I'm Oz Zaken, Full stack \ Frontend  Developer from Israel.
   <br>
-  <br>
   🔬 I study fullstack At codingAcademy from at Misterbit Technological Solutions.
+  <br>
   🔬 I study IT At Jhone Bryce.
+  <br>
   📚 I’m currently learning how to build E-Commerce Website with Django , 
+  <br>
   🌱 I’m currently learning Anguler.
   <br>
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+  <br>
 • 🌴 Proficient in building single-page apps.
+  <br>
 • 🎯 High self-disciplined with a constant drive for professional excellence.
+  <br>
 • 💙 I love Tech, fly Drones, and play Guitar
+  <br>
 • 💻 I love writing code and learn anythings about it
+  <br>
 • 🏆 I recently built a clone of AirBnb, check it out, it has everything!
+  <br>
   <br>
   💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>
   📫 HYou can reach me at : <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
