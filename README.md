@@ -26,20 +26,25 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Oz Zaken, Full stack \ Frontend  Developer from Israel
+  Hi, I'm Oz Zaken, Full stack \ Frontend  Developer from Israel.
   <br>
   <br>
-  🔬 I study At codingAcademy from MisterBit.
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
+  🔬 I study fullstack At codingAcademy from at Misterbit Technological Solutions.
+  🔬 I study IT At Jhone Bryce.
   📚 I’m currently learning how to build E-Commerce Website with Django , 
+  🌱 I’m currently learning Anguler.
   <br>
-
+• 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+• 🌴 Proficient in building single-page apps.
+• 🎯 High self-disciplined with a constant drive for professional excellence.
+• 💙 I love Tech, fly Drones, and play Guitar
+• 💻 I love writing code and learn anythings about it
+• 🏆 I recently built a clone of AirBnb, check it out, it has everything!
+  <br>
   💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 HYou can reach me at : <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -52,18 +57,18 @@
   <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
@@ -102,39 +107,39 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/OzZaken/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<!-- <div width="100%" align="center">
+  <a align="left" href="https://github.com/OzZaken/Algorithms" title="Algorithms">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/OzZaken/DataStructures" title="Data Structures">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/OzZaken/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/OzZaken/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/OzZaken/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/OzZaken/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/OzZaken/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/OzZaken/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/OzZaken/javascript-minesweeper" title="Minesweeper">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/OzZaken/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br> -->
+
 <h4 align="center">
   <a href="https://github.com/OzZaken?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<!-- 
-🌱 I’m currently learning Anguler.
-• 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
-
-• 🌴 Proficient in building single-page apps.
-
-• 🎯 High self-disciplined with a constant drive for professional excellence.
-
-• 🏆 I recently built a clone of AirBnb, check it out, it has everything!
-
-• 📫 You can reach me at ozzaken0201@gmail.com
-
-• 💙 Fun fact: I love Tech, fly Drones, and play Guitar
- -->
