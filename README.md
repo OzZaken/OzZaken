@@ -10,18 +10,19 @@
   <code>
     <a href="https://www.linkedin.com/in/OzZaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-    </code>
-
-  <code>
-  <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile">
-  <img width="22" src="images/hackerrank.png"> HackerRank</a>
   </code>
 
+  <!-- <code>
+  <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile">
+  <img width="22" src="images/hackerrank.png"> HackerRank</a>
+  </code> -->
+
   <code>
-  <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
+  <a href="https://stackoverflow.com/users/12578260/OzZaken" title="Stack Overflow Profile">
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code>
-  <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile">
+
+  <a href="https://www.instagram.com/OzZaken/" title="Instagram Profile">
   <img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -55,9 +56,8 @@
   💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>
   📫 You can reach me at : <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
-
-
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -113,11 +113,10 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=OzZaken&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br> -->
 
 <!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/OzZaken/Algorithms" title="Algorithms">
@@ -151,6 +150,6 @@
 </div>
 <br><br><br><br><br><br> -->
 
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://github.com/OzZaken?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> -->
