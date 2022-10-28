@@ -27,7 +27,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Oz Zaken, Full stack \ Frontend  Developer from Israel.
+  Hi, I'm Oz Zaken, Fullstack / Frontend  Developer from Israel.
   <br><br>
   📚  Education
   <br>
