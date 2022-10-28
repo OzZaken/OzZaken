@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-• 🔭 I’m currently working . 
-- 🌱 currently learning Anguler.
+- 🌱 I’m currently learning Anguler.
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
@@ -9,19 +8,14 @@
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a clone of Trello, check it out, it has everything! Skello
+• 🏆 I recently built a clone of AirBnb, check it out, it has everything!
 
-• 📫 You can reach me at benamram.ori@gmail.com
+• 📫 You can reach me at ozzaken0201@gmail.com
 
-• 💙 Fun fact: I love meditation, running, and drawing 🎨
+• 💙 Fun fact: I love Tech, fly Drones, and play Guitar
 
-Connect with me:
+• 📫  Connect with me:
 https://www.linkedin.com/in/oz-zaken
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 
 <h3 align="left">
   💬 talking about:
