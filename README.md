@@ -33,10 +33,10 @@
   <br>
   • fullstack At codingAcademy from Misterbit Technological Solutions.
   <br>
-  • IT % system administrator At John Bryce.
+  • IT & system administrator At John Bryce.
   <br>
   I’m currently learning how to build E-Commerce Website with Anguler and Django. 
-  <br><br>
+  <br>
   <br>
  🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
   <br>
