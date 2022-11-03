@@ -31,8 +31,6 @@
 </h5>
 
 <p align="center">
-  📚  Education
-  <br>
   • fullstack At codingAcademy from Misterbit Technological Solutions.
   <br>
   • IT & system administrator At John Bryce.
