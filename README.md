@@ -12,7 +12,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/OzZaken-14b081214/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
   </code>
 
@@ -26,7 +26,7 @@
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code>
 
-  <a href="https://www.instagram.com/OzZaken/" title="Instagram Profile">
+  <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
   <img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
