@@ -6,7 +6,12 @@
   </a>
 </h1>
 
-<h5 align="center">
+
+<p align="center">
+  Hi, I'm Oz Zaken, Fullstack / Frontend  Developer from Israel.
+  <br><br>
+  
+  <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/OzZaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
@@ -26,9 +31,7 @@
   <img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Oz Zaken, Fullstack / Frontend  Developer from Israel.
-  <br><br>
+  
   📚  Education
   <br>
   • fullstack At codingAcademy from Misterbit Technological Solutions.
@@ -44,7 +47,7 @@
   <br>
  🎯 High self-disciplined with a constant drive for professional excellence.
   <br>
- 💙 I love Tech, fly Drones, and play Guitar
+ 💙 I love Tech, fly Drones, and play Guitar.
   <br>
  💻 I love writing code and learn anythings about it
   <br>
@@ -53,7 +56,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>
   <br>
-  📫 You can reach me at : <a href="mailto: ozzaken0201@hotmail.com">ozzaken0201@hotmail.com</a>
+  📫 You can reach me at : <a href="mailto: ozzaken0201@gmail.com">ozzaken0201@gmail.com</a>
 </p>
 <hr>
 
