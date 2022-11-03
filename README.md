@@ -18,7 +18,7 @@
   </code> -->
 
   <code>
-  <a href="https://stackoverflow.com/users/12578260/OzZaken" title="Stack Overflow Profile">
+  <a href="https://stackoverflow.com/users/16631719/oz-zaken" title="Stack Overflow Profile">
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code>
 
