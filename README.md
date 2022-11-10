@@ -43,9 +43,7 @@
  🌴 Proficient in building single-page apps.
   <br>
  🎯 High self-disciplined with a constant drive for professional excellence.
-  <br>
- 💙 I love Tech, fly Drones, and play Guitar.
-  <br>
+   <br>
  💻 I love writing code and learn anythings about it
   <br>
  🏆 I recently built a clone of AirBnb, check it out, it has everything!
