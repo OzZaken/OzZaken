@@ -16,11 +16,6 @@
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
   </code>
 
-  <!-- <code>
-  <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile">
-  <img width="22" src="images/hackerrank.png"> HackerRank</a>
-  </code> -->
-
   <code>
   <a href="https://stackoverflow.com/users/16631719/oz-zaken" title="Stack Overflow Profile">
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
