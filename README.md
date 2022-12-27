@@ -10,20 +10,20 @@
   Hi, I'm Oz Zaken, Fullstack / Frontend  Developer from Israel.
 </p>
 
-<h5 align="center">
-  <code>
+<!-- <h5 align="center"> -->
+<!--   <code>
     <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-  </code>
+  </code> -->
 
-  <code>
+<!--   <code>
   <a href="https://stackoverflow.com/users/16631719/oz-zaken" title="Stack Overflow Profile">
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code>
-
-  <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
-  <img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+ -->
+<!--   <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
+  <img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+<!-- </h5> -->
 
 <p align="center">
   • fullstack At codingAcademy from Misterbit Technological Solutions.
@@ -47,7 +47,7 @@
 </p>
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 <p align="center">
   <!-- <code><img title="C" height="25" src="images/c.svg"></code> -->
@@ -82,7 +82,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <p align=center>
   <div align=center>
