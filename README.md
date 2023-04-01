@@ -59,7 +59,8 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 <!--* Contributions Graph-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<!-- Top Lang  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken)](https://github.com/OzZaken/github-readme-stats)
 <!-- # Carbon:
 <img src="https://carbon.now.sh/?bg=rgba(171, 184, 195, 1)&t=material&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&code=console.log(%22Hello,%20world!%22);"> -->
 
