@@ -27,7 +27,7 @@
 
 <p align="center">
  <strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.
- With a <em>degree from Coding Academy</em> and <em>CCNA certification</em>,
+ With a <em>certification</em>  from Coding Academy and CCNA <em>certification</em> ,
  I bring a diverse skill set and a strong foundation in both front-end and back-end development.
 
 Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
