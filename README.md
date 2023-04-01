@@ -98,9 +98,8 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 </a>
 
 [Show More 🔍](https://github.com/OzZaken?tab=repositories)
-<img src="https://source.unsplash.com/random/800x400">
-
+<img align="center" src="https://source.unsplash.com/random/800x400">
 
 <div style="background-image: url('https://source.unsplash.com/random/800x400'); background-size: cover; background-position: center; height: 400px; display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/OzZaken?tab=repositories" style="font-size: 24px; color: white; text-align: center;">Show More 🔍</a>
-</div>
+</div> 
