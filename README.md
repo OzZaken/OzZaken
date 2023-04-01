@@ -14,7 +14,7 @@
 </p>
 
 <!-- Links  -->
-<nav align="center" display="flex">
+<nav alignItems="center" justifyContent="center" display="flex">
   <code>
     <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
