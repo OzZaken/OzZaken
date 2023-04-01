@@ -44,11 +44,6 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 
 # GitHub Stats <!--* statistic -->
 
-<!--* Most used Languages -->
-<code><img align="left" height="350" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken)](https://github.com/OzZaken/github-readme-stats) -->
-<img align="right" height="350" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken" alt="OzZaken's Top Languages">
-
 <!--* Contributions -->
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=radical"> -->
@@ -60,6 +55,11 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 
 <!--* Contributions Graph-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--* Most used Languages -->
+<code><img align="left"  width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken)](https://github.com/OzZaken/github-readme-stats) -->
+<img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken" alt="OzZaken's Top Languages">
 
 
 <!-- # Carbon:
