@@ -1,5 +1,6 @@
-<!-- visitor-badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken"><!-- visitor-badge -->
+<img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!-- Shields.io -->
 
 # Oz Zaken Fullstack/ Frontend Developer<!-- Welcome -->
 <!-- HTML -->
@@ -44,41 +45,29 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
 <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true" alt="OzZaken" />
 
+<code><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
+
 <!-- [![OzZaken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<code><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
-
 <img src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=radical">
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken) -->
-
-
-# Carbon: 
-<img src="https://carbon.now.sh/?bg=rgba(171, 184, 195, 1)&t=material&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&code=console.log(%22Hello,%20world!%22);">
-
-
-# Shields.io
-<img src="https://img.shields.io/badge/version-1.0.0-blue">
-
+<!-- # Carbon:
+<img src="https://carbon.now.sh/?bg=rgba(171, 184, 195, 1)&t=material&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&code=console.log(%22Hello,%20world!%22);"> -->
 
 # Contact<!-- Contact -->
 - 📫 You can reach me at: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
 - 💬 Ask me anything about from [Here](https://github.com/OzZaken/OzZaken/issues).
 <!-- Links  -->
-[LinkedIn Profile](https://www.linkedin.com/in/oz-zaken-14b081214/) ![LinkedIn icon](images/linkedin.svg)
-[Instagram](https://www.instagram.com/oz.zaken/) ![Instagram icon](images/instagram.svg)
-[facebook](https://www.facebook.com/oz.zaken/) ![Instagram icon](images/facebook.svg)
-[Stack Overflow Profile](https://stackoverflow.com/users/16631719/oz-zaken) ![Stack Overflow Logo](images/stackoverflow.svg)
+[LinkedIn Profile](https://www.linkedin.com/in/oz-zaken-14b081214/) <img src="images/linkedin.svg" alt="LinkedIn icon" height="46">
+[Instagram](https://www.instagram.com/oz.zaken/) <img src="images/instagram.svg" alt="Instagram icon" height="46">
+[facebook](https://www.facebook.com/oz.zaken/) <img src="images/facebook.svg" alt="Facebook icon" height="46">
+[Stack Overflow Profile](https://stackoverflow.com/users/16631719/oz-zaken) <img src="images/stackoverflow.svg" alt="Stack Overflow logo" height="46">
 
 # Repositories 👨‍💻<!-- repos -->
 
 
-<code>
-<h4 align="center">
-  <a href="https://github.com/OzZaken?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-</code>
+[Show More 🔍](https://github.com/OzZaken?tab=repositories)
 <img src="https://source.unsplash.com/random/800x400">
