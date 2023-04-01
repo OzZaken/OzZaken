@@ -54,9 +54,9 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
 <!--* Most used Languages -->
-<img align="left"  width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img align="center"  width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken)](https://github.com/OzZaken/github-readme-stats) -->
-<img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken" alt="OzZaken's Top Languages">
+<!-- <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken" alt="OzZaken's Top Languages"> -->
 
 <!--* Contributions Graph-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -74,7 +74,10 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
 # Repositories 👨‍💻<!-- repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)[![Airbnb clone React](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&exclude_repo=github-readme-stats,OzZaken.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)[![Airbnb clone on React](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb) -->
+<a href="https://github.com/OzZaken/airbnb">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb clone on React">
+    </a>
+
 [Show More 🔍](https://github.com/OzZaken?tab=repositories)
 <img src="https://source.unsplash.com/random/800x400">
