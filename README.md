@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Hi, I'm Oz Zaken, Fullstack / Frontend  Developer from Israel.
+  Hi, I'm Oz Zaken, Fullstack / Frontend  Developer.
 </p>
 
 <!-- <h5 align="center"> -->
@@ -26,7 +26,13 @@
 <!-- </h5> -->
 
 <p align="center">
-  • fullstack At codingAcademy from Misterbit Technological Solutions.
+ <strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.
+ With a <em>degree from Coding Academy</em> and <em>CCNA certification</em>,
+ I bring a diverse skill set and a strong foundation in both front-end and back-end development.
+
+Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
+
+  
   <br>
   • IT & system administrator At John Bryce.
   <br>
