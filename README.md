@@ -19,25 +19,25 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 - 🎯 High self-disciplined with a constant drive for professional excellence.
 - 💻 I love writing code and learn anythings about it
 - 🏆 I recently built a clone of AirBnb, check it out, it has everything!
-
-<code><div align="center"><!-- stack -->
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="SASS" height="25" src="images/sass.svg">
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <img title="React" height="25" src="images/react-original.svg">
-  <img title="Redux" height="25" src="images/redux.svg">
-  <img title="AngularJS" height="25" src="images/angularjs.png">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
-  <img title="JQuery" height="25" src="images/jquery-original.svg">
-  <img title="Java" height="25" src="images/java-original.svg">
-  <img title="MySQL" height="25" src="images/mysql.svg">
-  <img title="npm" height="25" src="images/npm.svg">
-  <img title="PHP" height="25" src="images/php.svg">
-</div></code>
+<!-- stack -->
+<div align="center">
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+</div>
 
 ## Statistic <!-- statistic -->
 [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
