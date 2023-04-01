@@ -1,57 +1,27 @@
 <!-- visitor-badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken">
 
-<!-- Hello,+There!+👋 -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Oz+Zaken....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+# Oz Zaken Fullstack/ Frontend Developer<!-- Welcome -->
+<!-- HTML -->
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4965&pause=508&color=1673FB&width=450&lines=Welcome+to+my+GitHub+profile!+;Excited+to+share+my+repos;HTML5%2C+CSS%2C+SASS+%2C+Javascript++ES6%2C+Typescript...;+JSON%2C+XML%2C+Node.Js%2C+express;Anguler%2C+Vue+React;Rest+API%2C+mongoDB+mySQL+;PWA%2C+ORM%2C;Bootstrap%2C+JQuery%2C" alt="Typing SVG" /></a> -->
+<!-- Markdown -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4965&pause=508&color=1673FB&width=450&lines=Welcome+to+my+GitHub+profile!+;Excited+to+share+my+repos;HTML5%2C+CSS%2C+SASS+%2C+Javascript++ES6%2C+Typescript...;+JSON%2C+XML%2C+Node.Js%2C+express;Anguler%2C+Vue+React;Rest+API%2C+mongoDB+mySQL+;PWA%2C+ORM%2C;Bootstrap%2C+JQuery%2C)](https://git.io/typing-svg)
 
-<!-- I am  -->
-<p align="center">
-  Hi, I'm Oz Zaken, Fullstack / Frontend  Developer.
-</p>
 
-<!-- Links  -->
-<!-- <nav alignItems="center" justifyContent="center" display="flex">
-  <code>
-    <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
-    <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-  </code> -->
-
-<!--   <code>
-  <a href="https://stackoverflow.com/users/16631719/oz-zaken" title="Stack Overflow Profile">
-  <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code>
- -->
-
-<!--   <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
-  <img width="22" src="images/instagram.svg"> Instagram</a></code>
-</nav> -->
-
-<!-- About  -->
-<p align="center">
+# About me<!-- About -->
 <strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.<br/>
 With a <em>certification</em> from Coding Academy and CCNA <em>certification</em> ,
 I bring a diverse skill set and a strong foundation in both front-end and back-end development.
 
 Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
- 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!  <br>
- 🌴 Proficient in building single-page apps.  <br>
- 🎯 High self-disciplined with a constant drive for professional excellence.<br> 
- 💻 I love writing code and learn anythings about it  <br>
- 🏆 I recently built a clone of AirBnb, check it out, it has everything!  <br>
+- 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+- 🌴 Proficient in building single-page apps.
+- 🎯 High self-disciplined with a constant drive for professional excellence.
+- 💻 I love writing code and learn anythings about it
+- 🏆 I recently built a clone of AirBnb, check it out, it has everything!
 
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>  <br>
-  📫 You can reach me at : <a href="mailto: ozzaken0201@gmail.com">ozzaken0201@gmail.com</a>
-</p>
-<hr>
-<!-- stack -->
-<h2 align="center">Stack</h2>
-<br>
-<p align="center">
+# My Stack<!-- stack -->
+<div align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -68,80 +38,43 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <!-- <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <!-- <code><img title="C++" height="25" src="images/cpp.svg"></code> -->
-  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <!-- <code><img title="Python" height="25" src="images/python-original.svg"></code> -->
-  <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
-  <!-- <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code> -->
-  <!-- <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-  <!-- <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
-  <!-- <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code> -->
-  <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
-  <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
-  <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
-  <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
-</p>
-<hr>
-
-<!-- statistic -->
-<h2 align="center">Stat</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true" alt="OzZaken" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=OzZaken&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-<hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<!-- repo -->
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/Algorithms" title="Algorithms">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/OzZaken/DataStructures" title="Data Structures">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10">
-  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/OzZaken/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+# Statistic <!-- statistic -->
+1. [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
+2. [![OzZaken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<code><img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
+<code><img src="https://activity-graph.herokuapp.com/graph?username=OzZaken&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></code>
+# GitHub Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=radical">
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/OzZaken/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+# Streak Stats
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken)
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/OzZaken/javascript-minesweeper" title="Minesweeper">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/OzZaken/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br> 
 
+# Carbon: 
+<img src="https://carbon.now.sh/?bg=rgba(171, 184, 195, 1)&t=material&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&code=console.log(%22Hello,%20world!%22);">
+
+
+# Shields.io
+<img src="https://img.shields.io/badge/version-1.0.0-blue">
+
+
+# Contact<!-- Contact -->
+- 📫 You can reach me at: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
+- 💬 Ask me anything about from [Here](https://github.com/OzZaken/OzZaken/issues).
+<!-- Links  -->
+[LinkedIn Profile](https://www.linkedin.com/in/oz-zaken-14b081214/) ![LinkedIn icon](images/linkedin.svg)
+[Instagram](https://www.instagram.com/oz.zaken/) ![Instagram icon](images/instagram.svg)
+[facebook](https://www.facebook.com/oz.zaken/) ![Instagram icon](images/facebook.svg)
+[Stack Overflow Profile](https://stackoverflow.com/users/16631719/oz-zaken) ![Stack Overflow Logo](images/stackoverflow.svg)
+
+# Repositories 👨‍💻<!-- repos -->
+
+
+<code>
 <h4 align="center">
   <a href="https://github.com/OzZaken?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+</code>
+<img src="https://source.unsplash.com/random/800x400">
