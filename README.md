@@ -73,6 +73,6 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
 # Repositories 👨‍💻<!-- repos -->
-[![Airbnb clone React](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/OzZaken/airbnb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)[![Airbnb clone React](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)
 [Show More 🔍](https://github.com/OzZaken?tab=repositories)
 <img src="https://source.unsplash.com/random/800x400">
