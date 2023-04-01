@@ -14,11 +14,11 @@
 </p>
 
 <!-- Links  -->
-<nav alignItems="center" justifyContent="center" display="flex">
+<!-- <nav alignItems="center" justifyContent="center" display="flex">
   <code>
     <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-  </code>
+  </code> -->
 
 <!--   <code>
   <a href="https://stackoverflow.com/users/16631719/oz-zaken" title="Stack Overflow Profile">
@@ -26,9 +26,9 @@
   <code>
  -->
 
-  <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
+<!--   <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
   <img width="22" src="images/instagram.svg"> Instagram</a></code>
-</nav>
+</nav> -->
 
 <!-- About  -->
 <p align="center">
