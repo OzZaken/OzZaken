@@ -43,15 +43,15 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 </div>
 
 # GitHub Stats <!-- statistic -->
-
-<code><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
+<!-- width=325  -->
+<code><img  float="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
 
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=radical"> -->
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true" alt="OzZaken" />
+<img float="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true" alt="OzZaken" />
 
 <!-- [![OzZaken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+<img float="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
