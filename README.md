@@ -21,8 +21,8 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 - 💻 I love writing code and learn anythings about it
 - 🏆 I recently built a clone of AirBnb, check it out, it has everything!
   
-  ### stack 
-<div align="center">stack:
+  ### stack:
+<div align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
