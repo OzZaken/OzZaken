@@ -60,10 +60,10 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 - 📫 You can reach me at: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
 - 💬 Ask me anything about from [Here](https://github.com/OzZaken/OzZaken/issues).
 <!-- Links  -->
-- [LinkedIn Profile](https://www.linkedin.com/in/oz-zaken-14b081214/) <img src="images/linkedin.svg" alt="LinkedIn icon" height="46">
-- [Instagram](https://www.instagram.com/oz.zaken/) <img src="images/instagram.svg" alt="Instagram icon" height="46">
-- [facebook](https://www.facebook.com/oz.zaken/) <img src="images/facebook.svg" alt="Facebook icon" height="46">
-- [Stack Overflow Profile](https://stackoverflow.com/users/16631719/oz-zaken) <img src="images/stackoverflow.svg" alt="Stack Overflow logo" height="46">
+- [<img src="images/linkedin.svg" alt="LinkedIn icon" height="46">](https://www.linkedin.com/in/oz-zaken-14b081214/) 
+- [<img src="images/instagram.svg" alt="Instagram icon" height="46">](https://www.instagram.com/oz.zaken/) 
+- [<img src="images/facebook.svg" alt="Facebook icon" height="46">](https://www.facebook.com/oz.zaken/) 
+- [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
 # Repositories 👨‍💻<!-- repos -->
 
