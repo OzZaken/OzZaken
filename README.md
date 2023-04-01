@@ -10,20 +10,20 @@
   Hi, I'm Oz Zaken, Fullstack / Frontend  Developer.
 </p>
 
-<!-- <h5 align="center"> -->
-<!--   <code>
+<h5 align="center">
+  <code>
     <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
-  </code> -->
+  </code>
 
 <!--   <code>
   <a href="https://stackoverflow.com/users/16631719/oz-zaken" title="Stack Overflow Profile">
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code>
  -->
-<!--   <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
-  <img width="22" src="images/instagram.svg"> Instagram</a></code> -->
-<!-- </h5> -->
+  <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
+  <img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
 <p align="center">
  <strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.
@@ -142,6 +142,6 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 </div>
 <br><br><br><br><br><br> -->
 
-<!-- <h4 align="center">
+<h4 align="center">
   <a href="https://github.com/OzZaken?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
+</h4>
