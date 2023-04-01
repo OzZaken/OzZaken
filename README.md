@@ -1,4 +1,3 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken"><!-- visitor-badge -->
 <img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!-- Shields.io -->
 
@@ -43,6 +42,7 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 
 # GitHub Stats <!-- statistic -->
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=radical"> -->
 <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true" alt="OzZaken" />
 
 <code><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
@@ -51,8 +51,6 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=radical">
 
 <!-- # Carbon:
 <img src="https://carbon.now.sh/?bg=rgba(171, 184, 195, 1)&t=material&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&code=console.log(%22Hello,%20world!%22);"> -->
