@@ -33,9 +33,6 @@
 Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
 
   
-  <br>
-  • IT & system administrator At John Bryce.
-  <br>
  🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
   <br>
  🌴 Proficient in building single-page apps.
