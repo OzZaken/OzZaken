@@ -15,19 +15,18 @@ With a <em>certification</em> from Coding Academy and CCNA <em>certification</em
 I bring a diverse skill set and a strong foundation in both front-end and back-end development.
 
 Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
-- 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+- 🧲 A people's person. Autodidact, ambitious, and a team player!
 - 🌴 Proficient in building single-page apps.
 - 🎯 High self-disciplined with a constant drive for professional excellence.
 - 💻 I love writing code and learn anythings about it
 - 🏆 I recently built a clone of AirBnb, check it out, it has everything!
-
-# GitHub Stats <!-- statistic -->
-<!-- stack -->
-<div align="center">
+  
+  ### stack 
+<div align="center">stack:
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
@@ -40,9 +39,10 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <hr/><br/>
+  <hr/>
 </div>
 
+# GitHub Stats <!-- statistic -->
 
 <code><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
 
@@ -62,8 +62,8 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 - 📫 You can reach me at: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
 - 💬 Ask me anything about from [Here](https://github.com/OzZaken/OzZaken/issues).
 <!-- Links  -->
-- [<img src="images/linkedin.svg" alt="LinkedIn icon" height="46">](https://www.linkedin.com/in/oz-zaken-14b081214/) 
-- [<img src="images/instagram.svg" alt="Instagram icon" height="46">](https://www.instagram.com/oz.zaken/) 
+[<img src="images/linkedin.svg" alt="LinkedIn icon" height="46">](https://www.linkedin.com/in/oz-zaken-14b081214/) 
+[<img src="images/instagram.svg" alt="Instagram icon" height="46">](https://www.instagram.com/oz.zaken/) 
 - [<img src="images/facebook.svg" alt="Facebook icon" height="46">](https://www.facebook.com/oz.zaken/) 
 - [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
