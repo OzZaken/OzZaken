@@ -97,8 +97,5 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=meme-generator" alt="meme-generator">
 </a>
 
-<!-- [Show More 🔍](https://github.com/OzZaken?tab=repositories)-->
-<div align="center" >
-    <a href="https://github.com/OzZaken?tab=repositories">Show More 🔍</a>
-    <img align="center" src="https://source.unsplash.com/random/800x400"> 
-</div> 
+[Show More 🔍](https://github.com/OzZaken?tab=repositories)
+<!-- <img align="center" src="https://source.unsplash.com/random/800x400">  -->
