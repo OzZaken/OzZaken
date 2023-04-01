@@ -1,16 +1,20 @@
+<!-- visitor-badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken">
 
+<!-- Hello,+There!+👋 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Oz+Zaken....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
+<!-- I am  -->
 <p align="center">
   Hi, I'm Oz Zaken, Fullstack / Frontend  Developer.
 </p>
 
-<h5 align="center">
+<!-- Links  -->
+<nav align="center" display="flex">
   <code>
     <a href="https://www.linkedin.com/in/oz-zaken-14b081214/" title="LinkedIn Profile">
     <img width="22" src="images/linkedin.svg"> LinkedIn</a>
@@ -21,43 +25,33 @@
   <img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code>
  -->
+
   <a href="https://www.instagram.com/oz.zaken/" title="Instagram Profile">
   <img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+</nav>
 
+<!-- About  -->
 <p align="center">
- <strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.
- With a <em>certification</em>  from Coding Academy and CCNA <em>certification</em> ,
- I bring a diverse skill set and a strong foundation in both front-end and back-end development.
+<strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.<br/>
+With a <em>certification</em> from Coding Academy and CCNA <em>certification</em> ,
+I bring a diverse skill set and a strong foundation in both front-end and back-end development.
 
 Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
+ 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!  <br>
+ 🌴 Proficient in building single-page apps.  <br>
+ 🎯 High self-disciplined with a constant drive for professional excellence.<br> 
+ 💻 I love writing code and learn anythings about it  <br>
+ 🏆 I recently built a clone of AirBnb, check it out, it has everything!  <br>
 
-  
- 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
   <br>
- 🌴 Proficient in building single-page apps.
-  <br>
- 🎯 High self-disciplined with a constant drive for professional excellence.
-   <br>
- 💻 I love writing code and learn anythings about it
-  <br>
- 🏆 I recently built a clone of AirBnb, check it out, it has everything!
-  <br>
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>
-  <br>
+  💬 Ask me anything about from <a href="https://github.com/OzZaken/OzZaken/issues" title="Issues">Here</a>  <br>
   📫 You can reach me at : <a href="mailto: ozzaken0201@gmail.com">ozzaken0201@gmail.com</a>
 </p>
 <hr>
-
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<!-- stack -->
+<h2 align="center">Stack</h2>
 <br>
 <p align="center">
-  <!-- <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <!-- <code><img title="C++" height="25" src="images/cpp.svg"></code> -->
-  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <!-- <code><img title="Python" height="25" src="images/python-original.svg"></code> -->
-  <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -69,23 +63,29 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <!-- <code><img title="C" height="25" src="images/c.svg"></code> -->
+  <!-- <code><img title="C++" height="25" src="images/cpp.svg"></code> -->
+  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
+  <!-- <code><img title="Python" height="25" src="images/python-original.svg"></code> -->
+  <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
   <!-- <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code> -->
   <!-- <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
   <!-- <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
   <!-- <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code> -->
+  <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
   <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
   <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
   <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
 </p>
 <hr>
 
-<h2 align="center">Stats</h2>
+<!-- statistic -->
+<h2 align="center">Stat</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -109,6 +109,7 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
+<!-- repo -->
 <div width="100%" align="center">
   <a align="left" href="https://github.com/OzZaken/Algorithms" title="Algorithms">
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
