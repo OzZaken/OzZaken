@@ -20,9 +20,10 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 - 🎯 High self-disciplined with a constant drive for professional excellence.
 - 💻 I love writing code and learn anythings about it
 - 🏆 I recently built a clone of AirBnb, check it out, it has everything!
+
+# GitHub Stats <!-- statistic -->
 <!-- stack -->
 <div align="center">
-<hr/><br/>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -39,9 +40,10 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <hr/><br/>
 </div>
 
-# GitHub Stats <!-- statistic -->
+
 <code><img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></code>
 
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
