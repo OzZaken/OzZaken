@@ -26,6 +26,7 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -35,15 +36,16 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Powershell" height="25" src="images/powershell.svg"></code>
   <hr/>
 </div>
 
 # GitHub Stats <!--* statistic -->
+<!-- wakatime stats -->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OzZaken)](https://github.com/OzZaken/github-readme-stats)
 
 <!--* Contributions -->
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
@@ -78,35 +80,35 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)[![Airbnb clone on React](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb) -->
 
 <a href="https://github.com/OzZaken/meme-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">
 </a>
 
 <a href="https://github.com/OzZaken/airbnb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb clone on React">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb clone on React">
 </a>
 
 <a href="https://github.com/OzZaken/WikiTube">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=WikiTube" alt="WikiTube">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=WikiTube" alt="WikiTube">
 </a>
 
 <a href="https://github.com/OzZaken/TravelTip">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=TravelTip" alt="TravelTip">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=TravelTip" alt="TravelTip">
 </a>
 
 <a href="https://github.com/OzZaken/sokoban">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=sokoban" alt="sokoban">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=sokoban" alt="sokoban">
 </a>
 
 <a href="https://github.com/OzZaken/minesweeper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=minesweeper" alt="minesweeper">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=minesweeper" alt="minesweeper">
 </a>
 
 <a href="https://github.com/OzZaken/space-invaders">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=space-invaders" alt="space-invaders">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=space-invaders" alt="space-invaders">
 </a>
 
 <a href="https://github.com/OzZaken/meme-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=meme-generator" alt="meme-generator">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=meme-generator" alt="meme-generator">
 </a>
 
 [Show More 🔍](https://github.com/OzZaken?tab=repositories)
