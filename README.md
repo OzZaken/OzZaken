@@ -74,32 +74,39 @@ Additionally, I have a passion for <em>data analysis</em>, allowing me to make <
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
 # Repositories 👨‍💻<!-- repos -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)[![Airbnb clone on React](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb) -->
+
 <a href="https://github.com/OzZaken/meme-generator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">
 </a>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb)[![Airbnb clone on React](https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb)](https://github.com/OzZaken/airbnb) -->
+
 <a href="https://github.com/OzZaken/airbnb">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb clone on React">
 </a>
+
 <a href="https://github.com/OzZaken/WikiTube">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=WikiTube" alt="WikiTube">
 </a>
+
 <a href="https://github.com/OzZaken/TravelTip">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=TravelTip" alt="TravelTip">
 </a>
+
 <a href="https://github.com/OzZaken/sokoban">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=sokoban" alt="sokoban">
 </a>
+
 <a href="https://github.com/OzZaken/minesweeper">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=minesweeper" alt="minesweeper">
 </a>
+
 <a href="https://github.com/OzZaken/space-invaders">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=space-invaders" alt="space-invaders">
 </a>
+
 <a href="https://github.com/OzZaken/meme-generator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=meme-generator" alt="meme-generator">
 </a>
-
 
 [Show More 🔍](https://github.com/OzZaken?tab=repositories)
 <!-- <img align="center" src="https://source.unsplash.com/random/800x400">  -->
