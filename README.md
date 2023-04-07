@@ -1,3 +1,16 @@
+<style>
+.repo-img-left {
+  float: left;
+  clear: both;
+  margin-right: 10px;
+}
+
+.repo-img-right {
+  float: right;
+  clear: both;
+  margin-left: 10px;
+}
+</style>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken"><!--* visitor-badge -->
 <img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!--* Shields.io -->
@@ -105,19 +118,7 @@ Total commits <b>Last Year</b>: `750` Most active day: `Sunday`
 [<img src="images/facebook.svg" alt="Facebook icon" height="46">](https://www.facebook.com/oz.zaken/) 
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
-<style>
-.repo-img-left {
-  float: left;
-  clear: both;
-  margin-right: 10px;
-}
 
-.repo-img-right {
-  float: right;
-  clear: both;
-  margin-left: 10px;
-}
-</style>
 
 # Repositories <!--* Repositories -->
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">](https://github.com/OzZaken/util)
