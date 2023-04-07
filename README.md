@@ -3,7 +3,7 @@
 <img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!--* Shields.io -->
 
 <!--* Welcome -->
-<h1>Oz Zaken Fullstack/ Frontend Developer</h1> 
+<h1>Oz Zaken Fullstack Developer</h1> 
 
 <!--* my Stack -->
 <div align="center">
@@ -26,79 +26,79 @@
   <img title="React" width="25" src="images/react-original.svg">
   <img title="Redux" width="25" src="images/redux.svg">
   <img title="AngularJS" height="25" src="images/angularjs.png">
+  <img title="cloudinary" width="25" src="images/cloudinary.svg">
   <img title="MySQL" width="25" src="images/mysql.svg">
   <img title="mongodb" width="25" src="images/mongodb.svg">
-    <!-- <hr/><br/> -->
   <img title="JQuery" width="25" src="images/jquery-original.svg">
   <img title="Bootstrap" width="25" src="images/bootstrap.svg">
   <img title="CSS" width="25" src="images/css.svg">
   <img title="SASS" width="25" src="images/sass.svg">
   <img title="Canva" height="25" src="images/canva.svg">
-</div>
+</div><br/>
 <!--* Most used Languages -->
 <img align="right"  width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzZaken&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
+<!--* typing svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4965&pause=508&color=1673FB&width=450&lines=Welcome+to+my+GitHub+profile!+;Excited+to+share+my+repos;HTML5%2C+CSS%2C+SASS+%2C+Javascript++ES6%2C+Typescript...;+JSON%2C+XML%2C+Node.Js%2C+express;Anguler%2C+Vue+React;Rest+API%2C+mongoDB+mySQL+;PWA%2C+ORM%2C;Bootstrap%2C+JQuery%2C)](https://git.io/typing-svg)
-- [About me](#about-me)
-- [Check out my Github user analyze with Python](#check-out-my-github-user-analyze-with-python)
-- [Contact ](#contact-)
-- [GitHub Stats ](#github-stats-)
-- [Repositories ](#repositories-)
-  
 
-<!--* About -->
-# About me 
+<!--* nav -->
+- [About me ](#about-me-)
+- [Contact ](#contact-)
+- [Repositories ](#repositories-)
+- [GitHub Stats ](#github-stats-)
+<hr/><br/>
+
+
+# About me <!--* About -->
 <strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.<br/>
 With a <em>certification</em> from Coding Academy and CCNA <em>certification</em> ,
 I bring a diverse skill set and a strong foundation in both front-end and back-end development.
 
-Additionally, I have a passion for <em>data analysis</em>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
-- 🧲 A people's person. Autodidact, ambitious, and a team player!
+Additionally, I have a passion for <strong>Data analysis</strong>, allowing me to make <em>data-driven decisions</em> and optimize performance for my projects.
+- 🧲 Autodidact, ambitious, and a team player!
 - 🌴 Proficient in building single-page apps.
 - 🎯 High self-disciplined with a constant drive for professional excellence.
 - 💻 I love writing code and learn anythings about it
 - 🏆 I recently built a clone of AirBnb, check it out, it has everything!
-  
-# Check out my [Github user analyze with Python](https://github.com/OzZaken/util/tree/main/services/Py-services/analyze-github-user.py)
 
-<div style="display: flex; justify-content: space-between;">
+> **Check out my [Github user commit analyze using Python](https://github.com/OzZaken/util/tree/main/services/Py-services/analyze-github-user.py)** 
+> 
+> <div style="display: flex; justify-content: space-between;">
+> 
+> <div >
+> All Time
+>   
+> | Day       | Commits | % of Total |
+> | --------- | ------- | ---------- |
+> | Sunday    | 264     | 25.07%     |
+> | Monday    | 209     | 19.85%     |
+> | Tuesday   | 69      | 6.55%      |
+> | Wednesday | 69      | 6.55%      |
+> | Thursday  | 128     | 12.16%     |
+> | Friday    | 129     | 12.25%     |
+> | Saturday  | 185     | 17.57%     |
+> 
+> Total commits: `1053`, Most active day: `Sunday`  
+> </div>
+> 
+> <div style="text-align: right; width: 50%;">
+> <b>Last Year</b>
+> 
+> | Day       | Commits | % of Total |
+> | --------- | ------- | ---------- |
+> | Sunday    | 186     | 24.8%      |
+> | Monday    | 115     | 15.33%     |
+> | Tuesday   | 44      | 5.87%      |
+> | Wednesday | 41      | 5.47%      |
+> | Thursday  | 113     | 15.07%     |
+> | Friday    | 89      | 11.87%     |
+> | Saturday  | 162     | 21.6%      |
+> 
+> Total commits: `750` Most active day: `Sunday`  
+> </div>
+> 
+> </div>
 
-
-<div style="text-align: left; width: 50%;">
-All Time
-  
-| Day       | Commits | % of Total |
-| --------- | ------- | ---------- |
-| Sunday    | 264     | 25.07%     |
-| Monday    | 209     | 19.85%     |
-| Tuesday   | 69      | 6.55%      |
-| Wednesday | 69      | 6.55%      |
-| Thursday  | 128     | 12.16%     |
-| Friday    | 129     | 12.25%     |
-| Saturday  | 185     | 17.57%     |
-
-Total commits: `1053`, Most active day: `Sunday`  
-
-</div>
-
-
-<div style="text-align: right; width: 50%;">
-Last Year
-
-| Day       | Commits | % of Total |
-| --------- | ------- | ---------- |
-| Sunday    | 186     | 24.8%      |
-| Monday    | 115     | 15.33%     |
-| Tuesday   | 44      | 5.87%      |
-| Wednesday | 41      | 5.47%      |
-| Thursday  | 113     | 15.07%     |
-| Friday    | 89      | 11.87%     |
-| Saturday  | 162     | 21.6%      |
-
-Total commits: `750` Most active day: `Sunday`  
-</div>
-
-</div>
 
 # Contact <!--* Contact -->
 - 📫 You can reach me at: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
@@ -109,8 +109,32 @@ Total commits: `750` Most active day: `Sunday`
 [<img src="images/facebook.svg" alt="Facebook icon" height="46">](https://www.facebook.com/oz.zaken/) 
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
+<style>
+.repo-img-left {
+  float: left;
+  clear: both;
+  margin-right: 10px;
+}
+
+.repo-img-right {
+  float: right;
+  clear: both;
+  margin-left: 10px;
+}
+</style>
+
+# Repositories <!--* Repositories -->
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">](https://github.com/OzZaken/util)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb">](https://github.com/OzZaken/airbnb)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=WikiTube" alt="WikiTube">](https://github.com/OzZaken/WikiTube)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=TravelTip" alt="TravelTip">](https://github.com/OzZaken/TravelTip")
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=sokoban" alt="sokoban">](https://github.com/OzZaken/sokoban)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=minesweeper" alt="minesweeper">](https://github.com/OzZaken/minesweeper)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=space-invaders" alt="space-invaders">](https://github.com/OzZaken/space-invaders)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=meme-generator" alt="meme-generator">](https://github.com/OzZaken/meme-generator)
+<!-- <img align="center" src="https://source.unsplash.com/random/800x400">  -->
+
 # GitHub Stats <!--* statistic -->
-<!-- wakatime stats -->
 
 <!--* Contributions -->
 <!-- [![OzZaken's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzZaken&theme=react&border=61dafb&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats) -->
@@ -121,40 +145,4 @@ Total commits: `750` Most active day: `Sunday`
 <!-- [![OzZaken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=OzZaken&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OzZaken&bg_color=05082e&color=ffffff&line=1d629c&point=189168&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-# Repositories <!--* repos -->
-<a href="https://github.com/OzZaken/meme-generator">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">
-</a>
-
-<a href="https://github.com/OzZaken/airbnb">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb clone on React">
-</a>
-
-<a href="https://github.com/OzZaken/WikiTube">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=WikiTube" alt="WikiTube">
-</a>
-
-<a href="https://github.com/OzZaken/TravelTip">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=TravelTip" alt="TravelTip">
-</a>
-
-<a href="https://github.com/OzZaken/sokoban">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=sokoban" alt="sokoban">
-</a>
-
-<a href="https://github.com/OzZaken/minesweeper">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=minesweeper" alt="minesweeper">
-</a>
-
-<a href="https://github.com/OzZaken/space-invaders">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=space-invaders" alt="space-invaders">
-</a>
-
-<a href="https://github.com/OzZaken/meme-generator">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=meme-generator" alt="meme-generator">
-</a>
-
-<img align="center" src="https://source.unsplash.com/random/1000x400"> 
