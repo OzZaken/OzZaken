@@ -1,17 +1,3 @@
-<style>
-.repo-img-left {
-  float: left;
-  clear: both;
-  margin-right: 10px;
-}
-
-.repo-img-right {
-  float: right;
-  clear: both;
-  margin-left: 10px;
-}
-</style>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken"><!--* visitor-badge -->
 <img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!--* Shields.io -->
 
