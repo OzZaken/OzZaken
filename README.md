@@ -61,44 +61,44 @@ Additionally, I have a passion for <strong>Data analysis</strong>, allowing me t
 - 💻 I love writing code and learn anythings about it
 - 🏆 I recently built a clone of AirBnb, check it out, it has everything!
 
-**Check out my [Github user commit analyze using Python](https://github.com/OzZaken/util/tree/main/services/Py-services/analyze-github-user.py)** 
+Check out my [Github user analyze using Python](https://github.com/OzZaken/util/blob/main/python/analyze-github-user.bin.py)
 
 <div style="display: flex; justify-content: space-between;">
 
 <div style="text-align: left; width: 50%;">
 
-| Day       | Commits | % of Total |
-| --------- | ------- | ---------- |
-| Sunday    | 264     | 25.07%     |
-| Monday    | 209     | 19.85%     |
-| Tuesday   | 69      | 6.55%      |
-| Wednesday | 69      | 6.55%      |
-| Thursday  | 128     | 12.16%     |
-| Friday    | 129     | 12.25%     |
-| Saturday  | 185     | 17.57%     |
-
-Total commits <b>All Time</b>: `1053`, Most active day: `Sunday`  
+| <b>`All Time`</b> Total commits: `1053`<br/> Most active day: `Sunday` | Commits | % of Total |
+| ---------------------------------------------------------------------- | ------- | ---------- |
+| Sunday                                                                 | 264     | 25.07%     |
+| Monday                                                                 | 209     | 19.85%     |
+| Tuesday                                                                | 69      | 6.55%      |
+| Wednesday                                                              | 69      | 6.55%      |
+| Thursday                                                               | 128     | 12.16%     |
+| Friday                                                                 | 129     | 12.25%     |
+| Saturday                                                               | 185     | 17.57%     |
+ 
 </div>
 
 <div style="text-align: right; width: 50%;">
 
-| Day       | Commits | % of Total |
-| --------- | ------- | ---------- |
-| Sunday    | 186     | 24.8%      |
-| Monday    | 115     | 15.33%     |
-| Tuesday   | 44      | 5.87%      |
-| Wednesday | 41      | 5.47%      |
-| Thursday  | 113     | 15.07%     |
-| Friday    | 89      | 11.87%     |
-| Saturday  | 162     | 21.6%      |
+| <b>`Last Year`</b> Total commits : 750<br/>  Most active day: `Sunday` | Commits | % of Total |
+| ---------------------------------------------------------------------- | ------- | ---------- |
+| Sunday                                                                 | 186     | 24.8%      |
+| Monday                                                                 | 115     | 15.33%     |
+| Tuesday                                                                | 44      | 5.87%      |
+| Wednesday                                                              | 41      | 5.47%      |
+| Thursday                                                               | 113     | 15.07%     |
+| Friday                                                                 | 89      | 11.87%     |
+| Saturday                                                               | 162     | 21.6%      |
 
-Total commits <b>Last Year</b>: `750` Most active day: `Sunday`  
 </div>
+
 </div>
 
 # Contact <!--* Contact -->
-- 📫 You can reach me at: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
-- 💬 Ask me anything about from [Here](https://github.com/OzZaken/OzZaken/issues).
+- 📫 mail: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
+- 💬 Ask me anything about Code in [Here](https://github.com/OzZaken/OzZaken/issues).
+- mostly active on LinkIn
 <!-- Links  -->
 [<img src="images/linkedin.svg" alt="LinkedIn icon" height="46">](https://www.linkedin.com/in/oz-zaken-14b081214/) 
 [<img src="images/instagram.svg" alt="Instagram icon" height="46">](https://www.instagram.com/oz.zaken/) 
