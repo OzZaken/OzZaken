@@ -106,20 +106,6 @@ Check out my [Github user analyze using Python](https://github.com/OzZaken/util/
 [<img src="images/facebook.svg" alt="Facebook icon" height="46">](https://www.facebook.com/oz.zaken/) 
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
-<style>
-.repo-img-left {
-  float: left;
-  clear: both;
-  margin-right: 10px;
-}
-
-.repo-img-right {
-  float: right;
-  clear: both;
-  margin-left: 10px;
-}
-</style>
-
 # Repositories <!--* Repositories -->
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">](https://github.com/OzZaken/util)
 [<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=airbnb" alt="Airbnb">](https://github.com/OzZaken/airbnb)
