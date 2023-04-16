@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzZaken.OzZaken"><!--* visitor-badge -->
 <img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!--* Shields.io -->
 
@@ -95,16 +96,29 @@ Check out my [Github user analyze using Python](https://github.com/OzZaken/util/
 </div>
 
 # Contact <!--* Contact -->
-- 📫 mail: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
-- 💬 Ask me anything about Code in [Here](https://github.com/OzZaken/OzZaken/issues).
-- mostly active on LinkIn
+- 📫 Mail: [ozzaken0201@gmail.com](mailto:ozzaken0201@gmail.com).
+- 💬 Ask me about Code in [Here](https://github.com/OzZaken/OzZaken/issues).
+- some social medias
+
 <!-- Links  -->
 [<img src="images/linkedin.svg" alt="LinkedIn icon" height="46">](https://www.linkedin.com/in/oz-zaken-14b081214/) 
 [<img src="images/instagram.svg" alt="Instagram icon" height="46">](https://www.instagram.com/oz.zaken/) 
 [<img src="images/facebook.svg" alt="Facebook icon" height="46">](https://www.facebook.com/oz.zaken/) 
 [<img src="images/stack-overflow.svg" alt="Stack Overflow logo" height="46">](https://stackoverflow.com/users/16631719/oz-zaken) 
 
+<style>
+.repo-img-left {
+  float: left;
+  clear: both;
+  margin-right: 10px;
+}
 
+.repo-img-right {
+  float: right;
+  clear: both;
+  margin-left: 10px;
+}
+</style>
 
 # Repositories <!--* Repositories -->
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=OzZaken&repo=util" alt="meme-generator">](https://github.com/OzZaken/util)
