@@ -50,7 +50,7 @@
 
 
 # About me <!--* About -->
-<strong>As a full-stack developer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.<br/>
+<strong>As a DevOps engineer</strong>, I am passionate about creating innovative and impactful solutions to complex problems.<br/>
 With a <em>certification</em> from Coding Academy and CCNA <em>certification</em> ,
 I bring a diverse skill set and a strong foundation in both front-end and back-end development.
 
