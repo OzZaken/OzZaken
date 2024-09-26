@@ -3,7 +3,7 @@
 <img align="right" src="https://img.shields.io/badge/version-1.0.0-blue"><!--* Shields.io -->
 
 <!--* Welcome -->
-<h1>Oz Zaken Fullstack Developer</h1> 
+<h1>Oz Zaken DevOps Services</h1> 
 
 <!--* my Stack -->
 <div align="center">
